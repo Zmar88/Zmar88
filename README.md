@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Reach me at: [LinkedIn](https://www.linkedin.com/in/teuPerfil) | [Email](mailto:teu@email.com)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaomiranda&show_icons=true&theme=dracula)
+MSc in Computer Engineering and BSc in Graphic Computing and Multimedia Engineering at IPVC. Recently, held a researcher position on a funded project where I had the opportunity to develop digital solutions for the textile industry, focusing on technologies such as Augmented Reality (AR), Digital Twin, 3D Modeling, 3D Animation and C#.
+Driven, committed and quick to learn new technologies and methodologies.
+
+Reach me at: [LinkedIn](www.linkedin.com/in/joão-miranda-877956380) | [Email](zmar88.2017@gmail.com)  
