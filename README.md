@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Reach me at: [LinkedIn](https://www.linkedin.com/in/teuPerfil) | [Email](mailto:teu@email.com)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaomiranda&show_icons=true&theme=dracula)
