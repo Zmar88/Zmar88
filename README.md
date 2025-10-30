@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-MSc in Computer Engineering and BSc in Graphic Computing and Multimedia Engineering at IPVC. Recently, held a researcher position on a funded project where I had the opportunity to develop digital solutions for the textile industry, focusing on technologies such as Augmented Reality (AR), Digital Twin, 3D Modeling, 3D Animation and C#.
+MSc in Computer Engineering and BSc in Graphic Computing and Multimedia Engineering at IPVC.
+Recently, held a researcher position on a funded project where I had the opportunity to develop digital solutions for the textile industry, integrating Augmented Reality, Digital Twin, real-time data acquisition and visualization, 3D Modeling, 3D Animation and C#.
 Driven, committed and quick to learn new technologies and methodologies.
